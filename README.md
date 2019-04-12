@@ -29,9 +29,7 @@
 ## CSE 325 System Analysis and Design
 
 
-### [Quiz and Midterm Marks]()
-
-[Course outline](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/CSE%20325%20System%20Analysis%20and%20Design.pdf)
+### [Course outline](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/CSE%20325%20System%20Analysis%20and%20Design.pdf)
 
 
 ### Quiz 1: Syllabus
@@ -62,7 +60,7 @@
 
 ## CSE 326 System Analysis and Design Laboratory
 
-[Course outline](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20System%20Analysis%20and%20Design%20Laboratory.pdf)
+### [Course outline](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20System%20Analysis%20and%20Design%20Laboratory.pdf)
 
 ### Assignment
 
