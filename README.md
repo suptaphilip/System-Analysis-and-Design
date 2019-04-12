@@ -31,7 +31,7 @@
 
 ### [Quiz and Midterm Marks]()
 
-[Course outline](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/OBC%20CSE%20417%20AI.pdf)
+[Course outline](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/CSE%20325%20System%20Analysis%20and%20Design.pdf)
 
 
 ### Quiz 1: Syllabus
@@ -47,7 +47,7 @@
 
 
 ### Books
-> [Text Book](https://github.com/suptaphilip/Artificial-Intelligence/raw/AI-Theory/Book.pdf)
+> [Text Book](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/SAD_Book_Alan_Dennis.pdf)
 
 
 ### Video Tutorials
@@ -62,7 +62,7 @@
 
 ## CSE 326 System Analysis and Design Laboratory
 
-[Course outline]()
+[Course outline](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20System%20Analysis%20and%20Design%20Laboratory.pdf)
 
 ### Assignment
 
