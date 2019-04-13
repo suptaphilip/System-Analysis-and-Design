@@ -32,16 +32,13 @@
 ### [Course outline](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/CSE%20325%20System%20Analysis%20and%20Design.pdf)
 
 
-### Quiz 1: Syllabus
-[Use Case]()
-
 
 ### Lecture Sildes
 
-   
+>[Introduction](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/L1.pdf)
 
 ### Assignment
-> [Assignmet 1]() is uploaded. Due date: 
+> [Assignmet 1]() is uploaded. Due date:
 
 
 ### Books
