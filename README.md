@@ -37,6 +37,8 @@
 
 >[Introduction](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/L1.pdf)
 
+>[UML Class Diagram Relationship](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/Class%20Diagram%20Relationships.pdf)
+
 ### Assignment
 > [Assignmet 1]() is uploaded. Due date:
 
