@@ -11,8 +11,7 @@
 + Quiz 1 Date: 
 + Quiz 2 Date: 
 
-* Assignment 1 Submission Date: 
-* Assignment 2 Submission Date: 
+* Assignment 1 Submission Date: 26 April, 2019
 
 
 - Project Final Report and Presentation Date: 
@@ -40,7 +39,7 @@
 >[UML Class Diagram Relationship](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/Class%20Diagram%20Relationships.pdf)
 
 ### Assignment
-> [Assignmet 1]() is uploaded. Due date:
+> [Assignmet 1](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/Assignment%201.pdf) is uploaded. Submission date: 26 April, 2019
 
 
 ### Books
