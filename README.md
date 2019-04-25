@@ -60,6 +60,9 @@
 
 ### [Course outline](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20System%20Analysis%20and%20Design%20Laboratory.pdf)
 
+### Lecture Sildes
+[Lab 1](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/Lab%201.pdf)
+
 ### Assignment
 
 > [Assignmet 1]() is uploaded. Due date: 
