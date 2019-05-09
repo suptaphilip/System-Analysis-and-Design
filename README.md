@@ -43,7 +43,9 @@
 
 
 ### Books
-> [Text Book](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/SAD_Book_Alan_Dennis.pdf)
+> [Book_Alan_Dennis](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/SAD_Book_Alan_Dennis.pdf)
+
+> [Book_Jeffrey Whitten, Lonnie Bentley](https://b-ok.cc/book/1090112/e04d3d)
 
 
 ### Video Tutorials
