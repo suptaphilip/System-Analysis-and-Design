@@ -67,6 +67,11 @@
 
 >[Lab 2](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/Lab%202.pdf)
 
+>[Lab 3](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20SAD%20Lab%203.pdf)
+
+>[Lab 4](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20SAD%20Lab%204.pdf)
+
+
 ### Assignment
 
 > [Assignmet 1]() is uploaded. Due date: 
