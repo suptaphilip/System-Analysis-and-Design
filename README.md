@@ -41,6 +41,8 @@
 ### Assignment
 > [Assignmet 1](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/Assignment%201.pdf) is uploaded. Submission date: 26 April, 2019
 
+> [Assignmet 2]https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/CSE%20325%20SAD%20Theory%20Assignment%202.pdf) is uploaded. Submission date: 21 June, 2019
+
 
 ### Books
 > [Book_Alan_Dennis](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/SAD_Book_Alan_Dennis.pdf)
@@ -71,9 +73,11 @@
 
 >[Lab 4](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20SAD%20Lab%204.pdf)
 
+>[Lab 5](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20SAD%20Lab%205.pdf)
+
 
 ### Assignment
 
-> [Assignmet 1]() is uploaded. Due date: 
+> [Assignmet 1](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20SAD%20Lab%20Assignment%201.pdf) is uploaded. Due date: 21.06.2019
 
 ### OOP Tutorials
