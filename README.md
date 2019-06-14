@@ -41,7 +41,7 @@
 ### Assignment
 > [Assignmet 1](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/Assignment%201.pdf) is uploaded. Submission date: 26 April, 2019
 
-> [Assignmet 2]https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/CSE%20325%20SAD%20Theory%20Assignment%202.pdf) is uploaded. Submission date: 21 June, 2019
+> [Assignmet 2](https://github.com/suptaphilip/System-Analysis-and-Design/raw/TheorySpring2019/CSE%20325%20SAD%20Theory%20Assignment%202.pdf) is uploaded. Submission date: 21 June, 2019
 
 
 ### Books
