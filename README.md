@@ -51,8 +51,11 @@
 
 
 ### Video Tutorials
-> [TBA]()
+> [Data Base and ER Diagram](https://www.youtube.com/playlist?list=PLyH7UFQzuDWdurTvaRxNY_21ZyoE476AG)
 
+>[Data Flow Diagram](https://www.youtube.com/playlist?list=PLyH7UFQzuDWekJIt3TEzDtE-TORqGkz_r)
+
+>[Software Engineering and Project Management](https://www.youtube.com/playlist?list=PLyH7UFQzuDWeMO5eMQb6vTWETd9LGEhLq)
 
 ### Sample Questions
 >[AI_Mid_Fall17]()
