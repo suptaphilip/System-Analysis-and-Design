@@ -82,7 +82,7 @@
 
 >[Lab 6](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20SAD%20Lab%206.pdf)
 
-
+>[Lab Exam](https://github.com/suptaphilip/System-Analysis-and-Design/raw/LaboratorySpring2019/CSE%20326%20SAD%20FinalTerm.pdf)
 
 
 ### Assignment
